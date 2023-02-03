@@ -1,6 +1,5 @@
-# React Template
-> This repo contains React Template, <br> it contains all the basic configuration for react app including linters.
-
+# Analog CLock
+> This is an analog clock built with reactjs.
 
 ## Built With
 
@@ -19,8 +18,7 @@ To get a local copy up and running follow these simple example steps.
  - Git
   
 ### Setup
-
-    git clone https://github.com/shahira-sadat/react-template
+    git clone https://github.com/shahira-sadat/Analog-Clock
 
 ### Install
     npm install
@@ -35,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-Can check the live demo [here](https://shahira-sadat.github.io/)
+Can check the live demo [here]()
 
 
 ## Authors
@@ -44,7 +42,7 @@ Can check the live demo [here](https://shahira-sadat.github.io/)
 - GitHub: [Shahira Sadat](https://github.com/shahira-sadat)
 - Twitter: [Shahira Sadat](https://twitter.com/SadatShahira)
 - Linkedin: [Shahira Sadat](https://www.linkedin.com/in/shahira-sadat-49b402199)
-- Gmail: shahira.sadat1@gmail.com
+- Gmail: [Email me](shahira.sadat1@gmail.com)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
