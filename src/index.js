@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import "./styles.css";
-import Clock from "./clock.js";
+import Clock from "./Clock";
 
 function App() {
   return (
