@@ -1,5 +1,6 @@
 # Analog CLock
 > This is an analog clock built with reactjs.
+<img width="774" alt="clock" src="https://user-images.githubusercontent.com/53530780/216576907-fe6f9fb8-c826-4e16-8ce6-24b1c3e708ed.png">
 
 ## Built With
 
